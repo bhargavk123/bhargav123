@@ -1,0 +1,4 @@
+NeuTroN DOSC++ 0.77
+CONFIG:Loading primary settings from config file C:\Users\student\AppData\Local\DOSBox\dosbox-0.77.conf
+MIXER:Can't open audio: DirectSoundCreate: No audio device found , running in nosound mode.
+MIDI:Opened device:none
